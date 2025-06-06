@@ -15,8 +15,8 @@
     - \#Porque eu queria eu quero muito saber como que utiliza e como criar.
 7. **Bibliotecas(.DLL)**
     - \#So para fazer bibliotecas dinamicas.
-8. **Linux**
-    - \#eu utilizo o **LUBUNTU** "então não sei se eu compilar codigo no      linux eu ***não sei se Você vai conseguir executar no WINDOWS***".
+8. **Meu sistema que vou Utilizar vai ser:**
+    - \#**LINUX (LUBUNTU)** e **WINDOWS 10** porque nessa versão do repositorio é de windows.
 9. **MakeFile**
     - \#Ele usa para altomatizar a compilação. Parece **Interesnate**.
 ---
